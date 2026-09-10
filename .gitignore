@@ -1,4 +1,7 @@
-.venv
+# Virtual environment
+.venv/
+venv/
+
 # Logs
 logs
 *.log
@@ -25,6 +28,4 @@ dist-ssr
 *.sw?
 
 *.env
-.venv
-db.sqlite3
-backend/.env
+__pycache__
